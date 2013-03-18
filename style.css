@@ -1,0 +1,36 @@
+body {
+    width: 400px;
+    background: #
+}
+
+h2 {
+    text-align:center;
+}
+
+#selectable .ui-selecting { 
+    background: #FECA40; 
+}
+
+#selectable .ui-selected  {
+    background: #F39814; 
+    color: white; 
+}
+
+#selectable {
+    list-style-type: none;
+    position: relative;
+/*	left: -20px;  */
+    margin: 8px;
+}
+
+#selectable div {
+	background: #eeeeee;
+	border-radius: 5px;
+	border: 1px solid black;
+	margin: 2px;
+	padding: 0.4em;
+	font-size: 1em;
+	height: 16px;
+	font-family: Verdana, Arial, Sans-Serif;
+}
+
