@@ -1,11 +1,10 @@
-<!DOCTYPE html>
+shopping-list
+=============
+
+Project to develop a shopping list website and mobile application.
+
 <html>
-	<head>
-        <link rel="stylesheet" href="style.css" />
-        <script src='script.js'></script>
-		<title>My Shopping List</title>
-	</head>
-	<body>
+  <body>
     <h2>jQuery Project - Scope Requirements</h2>
     <h3>Project Name: My Shopping List</h3>
         <ol>
@@ -43,4 +42,3 @@
         </ol>    
     </body>
 </html>
-
