@@ -56,3 +56,4 @@ production:
   username: sample
   password:
   host: localhost
+
